@@ -1,14 +1,1 @@
 
-{
-  "wizard": [
-    {
-      "id": 1,
-      "firstName": "pluto",
-      "lastName": "pippo",
-      "hobby": "tennis",
-      "sex": "maschio",
-      "startDate": "12/04/2017",
-      "category": "rings"
-    },
-  ]
-}
