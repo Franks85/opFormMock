@@ -1,0 +1,8 @@
+{
+  fName: "Pluto",
+  lastName: "Pippo",
+  sex: "Maschio",
+  hobby: "Tennis",
+  select: "rings",
+  startDate: "1-12-2001"
+}
