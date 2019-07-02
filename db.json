@@ -1,38 +1,14 @@
 
-[
-  {
-    "firstName": "velit",
-    "lastName": "deserunt",
-    "startDate": "26-07-17",
-    "sex": "Maschio",
-    "hobby": "Golf"
-  },
-  {
-    "firstName": "et",
-    "lastName": "nulla",
-    "startDate": "19-07-17",
-    "sex": "Femmina",
-    "hobby": "Golf"
-  },
-  {
-    "firstName": "labore",
-    "lastName": "nisi",
-    "startDate": "05-03-17",
-    "sex": "Femmina",
-    "hobby": "Football"
-  },
-  {
-    "firstName": "incididunt",
-    "lastName": "nisi",
-    "startDate": "03-12-18",
-    "sex": "Femmina",
-    "hobby": "Tennis"
-  },
-  {
-    "firstName": "labore",
-    "lastName": "id",
-    "startDate": "17-05-17",
-    "sex": "Femmina",
-    "hobby": "Golf"
-  }
-]
+{
+  "wizard": [
+    {
+      "id": 1,
+      "firstName": "pluto",
+      "lastName": "pippo",
+      "hobby": 'Tennis',
+      "sex": "maschio",
+      "startDate": "12/04/2017",
+      "category": "rings"
+    },
+  ]
+}
