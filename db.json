@@ -1,9 +1,11 @@
 {
-  "fName": "Pluto",
-  "lastName": "Pippo",
-  "sex": "Maschio",
-  "hobby": "Tennis",
-  "select": "rings",
-  "startDate": "1-12-2001",
-  "id": 1
+  "wizard": [
+    "fName": "Pluto",
+    "lastName": "Pippo",
+    "sex": "Maschio",
+    "hobby": "Tennis",
+    "select": "rings",
+    "startDate": "1-12-2001",
+    "id": 1
+  ]
 }
