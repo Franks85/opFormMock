@@ -1,14 +1,14 @@
 {
-  "wizard": {
-    1: {
+  "wizard": [
+    "1": {
       "fName": "Pluto",
     "lastName": "Pippo",
     "id": 1
     },
-    2: {
+    "2": {
       "fName": "Paperino",
     "lastName": "Topolino",
     "id": 2
     }
-}
+]
 }
