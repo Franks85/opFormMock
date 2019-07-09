@@ -1,5 +1,5 @@
 {
-  "wizard": [
+  "wizard": {
     "1": {
       "fName": "Pluto",
     "lastName": "Pippo",
@@ -10,5 +10,5 @@
     "lastName": "Topolino",
     "id": 2
     }
-]
+  }
 }
